@@ -42,9 +42,6 @@ const Card = (props, imgs) => {
       <p className="card__price">
         <span className="bold">From ${props.price}</span> / person
       </p>
-      <footer>
-        <span>ALL RIGHTS RESERVED 2022</span>JS
-      </footer>
     </div>
     
   )
